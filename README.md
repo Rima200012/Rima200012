@@ -47,7 +47,7 @@ I enjoy turning messy data into meaningful insights through **dashboards, web sc
 ---
 
 # 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rima-bilel-44667a229/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rima-bilel-44667a229/)
 
 
 📧 Email: [rimabilel01@gmail.com](mailto:rimabilel01@gmail.com)  
